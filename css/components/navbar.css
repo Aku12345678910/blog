@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding: 1.5rem;
+}
+.navbar .navbar_menu{
+    display: flex;
+    column-gap: 50px;
+}
+.navbar .navbar_menu a{
+    text-decoration: none;
+}
+.navbar .navbar_input button{
+    background-color: black; 
+}
