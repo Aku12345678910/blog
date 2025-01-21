@@ -1,0 +1,26 @@
+.card{
+    max-width: var(--max-width);
+    padding: 4rem 0;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+}
+.card img{
+    width: 250px;
+    aspect-ratio: 4/2;
+    object-fit: cover;
+}
+.card .category{
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+button{
+    background-color: black;
+    color: aliceblue;
+}
+.card h1{
+    font-size: 20px;
+}
+.card p{
+    font-size: 10px;
+}

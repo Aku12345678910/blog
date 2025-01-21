@@ -1,9 +1,9 @@
 *{
-    margin-top: 0;
-    margin-left: 5px;
-    margin-right: 5px;
-    padding: 2px;
+    margin: auto;
+    padding: auto;
 }
 :root{
-    
+    --primary-color: #000;
+    --max-width: 850px;
+    --title-size: 50px;
 }
